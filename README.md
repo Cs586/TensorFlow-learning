@@ -11,3 +11,6 @@ https://docs.google.com/spreadsheets/d/1lW3SR-VX7YfAqSAj25NBoYcqfcQpCKUGQm0swgZX
 
 ## Transfer learning and fine-tuning
 https://www.tensorflow.org/tutorials/images/transfer_learning
+
+## Drop out explanation
+https://www.youtube.com/watch?v=ARq74QuavAo
