@@ -42,3 +42,6 @@
   9. Can you list all the hyperparameters you can tweak in an MLP? If the MLP overfits
   the training data, how could you tweak these hyperparameters to try to solve
   the problem?
+  10. Train a deep MLP on the MNIST dataset and see if you can get over 98% precision.
+  Try adding all the bells and whistles (i.e., save checkpoints, use early stopping,
+  plot learning curves using TensorBoard, and so on).
